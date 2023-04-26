@@ -2,14 +2,14 @@
 // @author         vita10gy - K3rnelP4nik
 // @name           IITC plugin: K3P4 Highlight Portals by Level Color
 // @category       Highlighter
-// @version        0.2.0.1
+// @version        0.2.0.20230426
 // @description    Use the portal fill color to denote the portal level by using the game level colors.
 // 				   With this version the neutral portals are higlighted in white; the cose is based on
 //                 vita10gy plugin "Highlight Portals by Level Color 0.2.0"
 // @id             k3p4-highlight-level-color
-// @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
-// @updateURL      https://iitc.app/build/release/plugins/highlight-level-color.meta.js
-// @downloadURL    https://iitc.app/build/release/plugins/highlight-level-color.user.js
+// @namespace      https://github.com/GenGem7/IITC-plugins-K3rnelP4nik
+// @updateURL      https://raw.githubusercontent.com/GenGem7/IITC-plugins-K3rnelP4nik/main/k3p4-highlight-level-color-custom.js
+// @downloadURL    https://raw.githubusercontent.com/GenGem7/IITC-plugins-K3rnelP4nik/main/k3p4-highlight-level-color-custom.js
 // @match          https://intel.ingress.com/*
 // @match          https://intel-x.ingress.com/*
 // @grant          none
