@@ -2,14 +2,14 @@
 // @author         mcben - K3rnelP4nik
 // @name           IITC plugin: Purple Cross Links
 // @category       Draw
-// @version        1.3.1.1
+// @version        1.3.1.20230426
 // @description    Checks for existing links that cross planned links. Requires draw-tools plugin.
-//				   Based on mcben Cross Links plugin (1.3.1) this version recolors the cross-links in purple 
+//				         Based on mcben Cross Links plugin (1.3.1) this version recolors the cross-links in purple 
 //                 allowing a better visualization on the cross-links of the MACHINA faction
 // @id             purple-cross-links
-// @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
-// @updateURL      https://iitc.app/build/release/plugins/cross-links.meta.js
-// @downloadURL    https://iitc.app/build/release/plugins/cross-links.user.js
+// @namespace      https://github.com/GenGem7/IITC-plugins-K3rnelP4nik
+// @updateURL      https://raw.githubusercontent.com/GenGem7/IITC-plugins-K3rnelP4nik/main/purple-cross-links.js
+// @downloadURL    https://raw.githubusercontent.com/GenGem7/IITC-plugins-K3rnelP4nik/main/purple-cross-links.js
 // @match          https://intel.ingress.com/*
 // @match          https://intel-x.ingress.com/*
 // @grant          none
