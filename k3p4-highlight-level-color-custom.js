@@ -4,7 +4,7 @@
 // @category       Highlighter
 // @version        0.2.0.20230426
 // @description    Use the portal fill color to denote the portal level by using the game level colors.
-// 				   With this version the neutral portals are higlighted in white; the cose is based on
+// 	           With this version the neutral portals are higlighted in white; the cose is based on
 //                 vita10gy plugin "Highlight Portals by Level Color 0.2.0"
 // @id             k3p4-highlight-level-color
 // @namespace      https://github.com/GenGem7/IITC-plugins-K3rnelP4nik
